@@ -4,8 +4,8 @@ revision: '00001'
 annotations:
   d2433ac6031d49ec89b9a23ee1a73a3d:
     parts: {}
+    work_id: D1796
     span:
-    - vol: 18
+    - base: fbfc
       start: 0
       end: 33158
-    work_id: D1796
